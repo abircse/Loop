@@ -12,5 +12,6 @@ public class DoWhile {
         while (a <= 50);
 
 
+
     }
 }
